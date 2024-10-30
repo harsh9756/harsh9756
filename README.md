@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React<br>🎯 Goals: Join FAANG</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React Native<br>🎯 Goals: Join FAANG</p>
 
 ###
 
